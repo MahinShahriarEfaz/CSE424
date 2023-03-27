@@ -1,14 +1,13 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
 
 Paper title:
-NLP using ANN
+AOBTM: Adaptive Online Biterm Topic Modeling for Version Sensitive Short-texts Analysis
 
 Link to the paper:
-https://ieeexplore......
+https://ieeexplore.ieee.org/document/9240699
 
 Group Number:
 11
